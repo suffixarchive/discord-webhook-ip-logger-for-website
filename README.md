@@ -20,4 +20,7 @@ fetch("web-hook-here", { // your webhook here
 
 ## I can't stop you skids from using this maliciously, but i can tell you not to.
 
+### preview
+https://media.discordapp.net/attachments/1152526852200615989/1160144075635298344/image.png?ex=6533975e&is=6521225e&hm=7ceb0d79c4e84c9af589f0e1a0fdbe8f41a9930bcb8a777d3583886b0040fd9c&=&width=513&height=683
+
 # fuck you skid
